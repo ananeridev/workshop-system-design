@@ -16,5 +16,8 @@ Ao utilizar bloqueio de banco de dados, é importante considerar o escopo dos bl
 No entanto, o uso excessivo de bloqueios pode resultar em problemas de desempenho, como bloqueios em cascata e bloqueios em fila. Portanto, é necessário encontrar um equilíbrio entre garantir a consistência dos dados e manter a eficiência do sistema.
 
 
+<img width="346" alt="database-lock" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/b81f42d1-bd2f-402e-9662-c5777c3be2e8">
+
+
 O bloqueio de banco de dados é uma técnica usada para controlar o acesso concorrente a um banco de dados, garantindo a consistência e integridade dos dados. Ele utiliza bloqueios de leitura e escrita para coordenar o acesso às informações, evitando conflitos e assegurando a correta manipulação dos dados em um ambiente com acesso simultâneo.
 
