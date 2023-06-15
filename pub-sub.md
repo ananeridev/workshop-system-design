@@ -16,6 +16,8 @@ O broker é responsável por rotear e entregar as mensagens aos subscritores cor
 
 Além disso, o padrão Pub-Sub permite a criação de sistemas distribuídos, onde os diferentes componentes podem estar em máquinas diferentes ou até mesmo em diferentes data centers. Isso possibilita uma arquitetura mais modular e resiliente.
 
+<img width="551" alt="pub-sub" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/5306fc64-9570-41b5-8731-9acc7c735f2b">
+
 
 -> Em resumo, o padrão Pub-Sub é um modelo de comunicação assíncrona que utiliza um intermediário (broker) para permitir que os diferentes componentes de um sistema se comuniquem sem precisar saber explicitamente quem são os destinatários das mensagens. Ele traz flexibilidade, escalabilidade e modularidade para o System Design.
 
