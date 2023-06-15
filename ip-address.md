@@ -7,3 +7,5 @@
     - Port 80 - HTTP
     - Port 443 - HTTPS
 - DNS que é a abreviação de Domain Name System. Ele descreve as entidades e protocolos envolvidos na tradução de nomes de domínio para endereços IP. Tipicamente, as máquinas fazem uma consulta de DNS a uma entidade conhecida que é responsável por retornar os endereços IP do nome de domínio solicitado na resposta.
+
+ <img width="373" alt="ip" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/513f0fcd-61d8-4833-af61-8c3d246f7060">
