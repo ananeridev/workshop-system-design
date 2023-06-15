@@ -18,5 +18,8 @@ Blob Storage é perfeito para hospedar imagens para sites, armazenar arquivos de
 
 Nesse exemplo que aparece na tela, um servidor que hospeda logs que são armazenados no serviço de armazenamento do mesmo. Um analisador de log recupera os arquivos de log do armazenamentos de blob e analisa os dados.
 
+<img width="225" alt="blob storage" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/d19e18b6-4408-4639-8857-71686e846f8f">
+
+
 Os resultados são exibidos em um painel de infos para análise posterior e tomada de decisão caso necessário.
 
