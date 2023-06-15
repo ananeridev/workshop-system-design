@@ -17,7 +17,7 @@ A esqueda esta uma rede client-server tradicional, onde o arquivo é carregado e
 
 À direita esta uma rede P2P, onde o arquivo é transferido diretamente entre 2 dispositovs sem a necessidade de um servidor.
 
-¼
-<imagem aqui>
+<img width="305" alt="peer-to-peer" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/e50afc0d-16e7-4163-8131-b559567e4c4b">
+
 
  Como você pode ver em uma rede P2P, cada dispositivo pode atuar tanto como cliente como servidor, permitindo a comunicação direta entre os dispositivos.
