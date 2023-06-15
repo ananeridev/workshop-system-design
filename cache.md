@@ -17,6 +17,10 @@ No entanto, o cache também apresenta alguns desafios. Um deles é a sincroniza�
 
 Outro desafio é o gerenciamento do tamanho do cache e a substituição de dados menos frequentemente usados. É importante garantir que o cache não cresça indefinidamente e que os dados mais relevantes e frequentemente acessados sejam mantidos no cache.
 
+<img width="477" alt="cache" src="https://github.com/ananeridev/workshop-system-design/assets/42419543/f349eabe-5eb9-47f4-a570-ff4d020bcf96">
+
 
 O cache é uma camada de armazenamento rápido que armazena dados temporariamente para acelerar o acesso a esses dados frequentemente utilizados. Ele aproveita o princípio da localidade e pode ser implementado em diferentes camadas do sistema. No entanto, é necessário lidar com desafios como sincronização de dados e gerenciamento de tamanho para garantir a eficácia do cache.
+
+
 
